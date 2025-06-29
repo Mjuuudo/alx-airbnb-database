@@ -1,6 +1,19 @@
 SQL Queires That Allows Creating Our Database Then Using it then finnaly create tables into it
 
 
+The USed KEywords Reffers to 
+Concept	Meaning
+UUID	Universally Unique Identifier (safe, random-looking ID)
+VARCHAR	A short text (limited length)
+TEXT	Long text (no limit)
+ENUM	Choose from fixed values (like a dropdown)
+DECIMAL	For prices (e.g., 49.99)
+TIMESTAMP	Stores date and time
+FOREIGN KEY	Links two tables together
+INDEX	Speeds up searching on a column
+CHECK	Adds a condition (like rating must be between 1 and 5)
+
+
 ### Entities && Attributes
 
 ## User
