@@ -1,0 +1,1 @@
+AirbnbClone database with realistic sample data using INSERT statements for each table with 3 examples per table
