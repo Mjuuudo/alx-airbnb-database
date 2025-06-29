@@ -1,0 +1,1 @@
+SQL Queires That Allows Creating Our Database Then Using it then finnaly create tables into it
